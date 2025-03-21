@@ -1,0 +1,1817 @@
+deepseek_v2.embed_tokens.weight: [8080, 7168], paddle.bfloat16
+deepseek_v2.norm.weight: [7168], paddle.bfloat16
+deepseek_v2.rotary_emb.cos_cache: [163840, 64], paddle.bfloat16
+deepseek_v2.rotary_emb.sin_cache: [163840, 64], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.0.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.0.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.1.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.1.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.2.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.2.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.3.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.3.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.3.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.4.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.4.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.5.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.5.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.6.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.6.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.7.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.7.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.8.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.8.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.9.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.9.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.10.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.10.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.11.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.11.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.12.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.12.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.13.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.13.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.14.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.14.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.15.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.15.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.16.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.16.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.17.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.17.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.18.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.18.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.19.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.19.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.20.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.20.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.21.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.21.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.22.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.22.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.23.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.23.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.24.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.24.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.25.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.25.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.26.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.26.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.27.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.27.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.28.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.28.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.29.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.29.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.30.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.30.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.31.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.31.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.32.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.32.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.33.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.33.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.34.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.34.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.35.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.35.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.36.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.36.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.37.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.37.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.38.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.38.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.39.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.39.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.40.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.40.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.41.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.41.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.42.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.42.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.43.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.43.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.44.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.44.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.45.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.45.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.46.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.46.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.47.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.47.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.48.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.48.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.49.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.49.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.50.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.50.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.51.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.51.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.52.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.52.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.53.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.53.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.54.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.54.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.55.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.55.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.56.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.56.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.57.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.57.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.58.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.58.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.59.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.59.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.60.ffn_ln_scale: [7168], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.60.e_score_correction_bias: [256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.0.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.0.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.0.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.0.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.0.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.0.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.0.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.0.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.0.ffn1_weight_scale: [18, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.0.ffn2_weight_scale: [56, 9], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.1.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.1.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.1.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.1.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.1.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.1.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.1.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.1.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.1.ffn1_weight_scale: [18, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.1.ffn2_weight_scale: [56, 9], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.2.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.2.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.2.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.2.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.2.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.2.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.2.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.2.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.2.ffn1_weight_scale: [18, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.2.ffn2_weight_scale: [56, 9], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.q_a_proj_weight_scale: [12, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.q_b_proj_weight_scale: [12, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.kv_a_proj_with_mqa_weight_scale: [5, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.kv_b_proj_weight_scale: [16, 4], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.q_nope_k_b_proj_weight_scale: [32, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.q_rope_proj_weight_scale: [4, 12], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.v_b_o_proj_weight_scale: [56, 32], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.out_proj_weight_scale: [56, 8], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.ffn1_weight_scale: [256, 2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.ffn2_weight_scale: [256, 56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.shared_expert_ffn1_weight_scale: [2, 56], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.shared_expert_ffn2_weight_scale: [56, 1], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.0.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.0.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.0.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.0.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.0.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.0.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.0.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.0.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.0.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.0.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.0.ffn1_weight: [2304, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.0.ffn2_weight: [7168, 1152], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.1.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.1.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.1.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.1.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.1.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.1.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.1.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.1.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.1.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.1.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.1.ffn1_weight: [2304, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.1.ffn2_weight: [7168, 1152], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.2.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.2.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.2.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.2.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.2.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.2.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.2.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.2.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.2.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.2.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.2.ffn1_weight: [2304, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.2.ffn2_weight: [7168, 1152], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.3.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.3.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.3.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.3.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.3.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.3.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.3.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.3.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.3.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.3.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.3.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.3.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.3.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.3.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.3.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.4.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.4.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.4.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.4.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.4.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.4.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.4.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.4.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.4.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.4.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.4.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.4.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.4.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.4.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.4.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.5.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.5.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.5.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.5.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.5.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.5.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.5.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.5.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.5.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.5.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.5.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.5.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.5.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.5.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.5.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.6.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.6.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.6.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.6.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.6.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.6.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.6.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.6.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.6.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.6.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.6.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.6.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.6.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.6.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.6.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.7.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.7.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.7.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.7.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.7.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.7.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.7.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.7.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.7.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.7.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.7.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.7.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.7.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.7.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.7.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.8.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.8.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.8.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.8.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.8.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.8.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.8.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.8.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.8.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.8.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.8.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.8.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.8.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.8.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.8.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.9.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.9.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.9.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.9.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.9.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.9.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.9.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.9.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.9.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.9.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.9.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.9.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.9.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.9.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.9.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.10.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.10.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.10.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.10.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.10.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.10.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.10.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.10.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.10.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.10.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.10.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.10.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.10.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.10.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.10.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.11.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.11.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.11.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.11.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.11.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.11.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.11.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.11.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.11.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.11.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.11.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.11.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.11.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.11.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.11.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.12.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.12.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.12.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.12.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.12.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.12.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.12.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.12.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.12.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.12.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.12.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.12.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.12.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.12.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.12.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.13.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.13.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.13.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.13.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.13.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.13.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.13.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.13.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.13.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.13.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.13.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.13.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.13.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.13.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.13.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.14.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.14.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.14.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.14.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.14.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.14.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.14.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.14.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.14.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.14.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.14.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.14.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.14.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.14.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.14.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.15.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.15.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.15.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.15.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.15.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.15.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.15.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.15.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.15.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.15.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.15.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.15.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.15.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.15.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.15.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.16.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.16.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.16.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.16.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.16.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.16.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.16.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.16.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.16.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.16.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.16.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.16.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.16.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.16.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.16.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.17.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.17.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.17.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.17.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.17.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.17.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.17.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.17.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.17.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.17.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.17.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.17.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.17.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.17.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.17.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.18.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.18.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.18.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.18.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.18.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.18.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.18.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.18.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.18.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.18.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.18.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.18.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.18.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.18.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.18.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.19.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.19.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.19.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.19.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.19.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.19.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.19.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.19.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.19.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.19.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.19.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.19.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.19.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.19.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.19.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.20.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.20.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.20.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.20.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.20.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.20.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.20.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.20.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.20.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.20.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.20.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.20.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.20.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.20.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.20.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.21.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.21.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.21.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.21.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.21.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.21.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.21.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.21.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.21.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.21.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.21.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.21.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.21.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.21.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.21.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.22.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.22.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.22.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.22.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.22.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.22.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.22.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.22.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.22.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.22.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.22.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.22.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.22.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.22.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.22.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.23.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.23.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.23.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.23.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.23.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.23.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.23.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.23.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.23.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.23.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.23.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.23.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.23.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.23.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.23.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.24.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.24.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.24.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.24.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.24.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.24.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.24.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.24.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.24.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.24.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.24.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.24.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.24.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.24.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.24.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.25.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.25.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.25.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.25.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.25.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.25.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.25.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.25.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.25.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.25.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.25.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.25.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.25.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.25.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.25.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.26.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.26.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.26.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.26.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.26.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.26.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.26.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.26.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.26.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.26.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.26.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.26.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.26.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.26.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.26.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.27.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.27.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.27.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.27.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.27.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.27.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.27.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.27.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.27.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.27.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.27.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.27.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.27.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.27.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.27.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.28.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.28.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.28.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.28.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.28.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.28.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.28.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.28.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.28.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.28.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.28.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.28.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.28.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.28.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.28.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.29.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.29.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.29.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.29.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.29.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.29.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.29.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.29.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.29.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.29.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.29.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.29.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.29.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.29.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.29.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.30.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.30.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.30.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.30.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.30.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.30.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.30.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.30.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.30.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.30.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.30.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.30.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.30.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.30.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.30.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.31.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.31.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.31.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.31.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.31.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.31.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.31.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.31.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.31.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.31.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.31.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.31.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.31.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.31.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.31.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.32.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.32.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.32.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.32.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.32.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.32.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.32.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.32.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.32.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.32.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.32.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.32.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.32.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.32.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.32.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.33.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.33.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.33.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.33.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.33.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.33.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.33.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.33.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.33.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.33.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.33.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.33.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.33.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.33.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.33.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.34.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.34.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.34.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.34.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.34.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.34.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.34.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.34.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.34.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.34.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.34.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.34.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.34.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.34.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.34.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.35.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.35.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.35.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.35.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.35.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.35.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.35.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.35.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.35.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.35.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.35.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.35.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.35.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.35.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.35.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.36.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.36.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.36.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.36.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.36.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.36.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.36.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.36.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.36.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.36.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.36.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.36.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.36.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.36.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.36.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.37.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.37.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.37.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.37.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.37.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.37.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.37.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.37.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.37.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.37.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.37.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.37.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.37.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.37.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.37.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.38.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.38.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.38.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.38.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.38.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.38.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.38.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.38.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.38.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.38.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.38.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.38.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.38.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.38.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.38.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.39.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.39.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.39.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.39.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.39.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.39.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.39.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.39.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.39.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.39.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.39.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.39.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.39.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.39.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.39.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.40.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.40.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.40.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.40.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.40.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.40.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.40.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.40.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.40.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.40.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.40.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.40.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.40.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.40.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.40.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.41.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.41.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.41.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.41.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.41.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.41.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.41.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.41.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.41.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.41.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.41.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.41.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.41.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.41.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.41.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.42.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.42.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.42.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.42.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.42.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.42.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.42.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.42.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.42.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.42.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.42.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.42.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.42.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.42.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.42.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.43.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.43.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.43.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.43.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.43.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.43.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.43.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.43.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.43.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.43.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.43.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.43.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.43.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.43.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.43.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.44.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.44.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.44.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.44.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.44.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.44.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.44.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.44.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.44.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.44.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.44.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.44.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.44.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.44.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.44.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.45.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.45.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.45.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.45.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.45.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.45.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.45.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.45.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.45.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.45.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.45.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.45.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.45.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.45.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.45.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.46.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.46.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.46.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.46.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.46.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.46.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.46.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.46.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.46.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.46.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.46.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.46.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.46.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.46.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.46.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.47.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.47.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.47.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.47.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.47.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.47.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.47.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.47.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.47.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.47.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.47.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.47.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.47.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.47.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.47.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.48.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.48.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.48.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.48.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.48.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.48.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.48.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.48.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.48.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.48.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.48.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.48.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.48.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.48.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.48.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.49.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.49.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.49.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.49.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.49.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.49.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.49.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.49.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.49.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.49.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.49.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.49.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.49.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.49.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.49.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.50.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.50.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.50.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.50.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.50.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.50.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.50.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.50.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.50.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.50.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.50.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.50.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.50.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.50.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.50.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.51.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.51.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.51.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.51.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.51.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.51.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.51.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.51.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.51.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.51.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.51.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.51.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.51.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.51.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.51.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.52.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.52.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.52.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.52.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.52.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.52.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.52.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.52.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.52.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.52.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.52.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.52.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.52.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.52.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.52.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.53.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.53.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.53.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.53.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.53.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.53.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.53.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.53.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.53.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.53.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.53.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.53.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.53.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.53.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.53.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.54.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.54.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.54.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.54.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.54.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.54.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.54.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.54.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.54.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.54.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.54.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.54.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.54.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.54.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.54.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.55.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.55.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.55.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.55.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.55.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.55.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.55.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.55.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.55.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.55.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.55.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.55.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.55.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.55.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.55.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.56.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.56.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.56.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.56.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.56.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.56.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.56.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.56.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.56.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.56.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.56.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.56.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.56.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.56.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.56.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.57.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.57.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.57.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.57.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.57.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.57.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.57.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.57.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.57.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.57.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.57.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.57.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.57.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.57.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.57.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.58.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.58.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.58.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.58.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.58.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.58.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.58.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.58.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.58.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.58.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.58.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.58.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.58.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.58.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.58.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.59.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.59.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.59.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.59.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.59.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.59.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.59.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.59.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.59.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.59.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.59.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.59.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.59.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.59.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.59.ffn2_weight: [256, 7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.60.q_a_proj_weight: [1536, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.60.q_a_layernorm_weight: [1536], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.60.q_b_proj_weight: [1536, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.60.kv_a_proj_with_mqa_weight: [576, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.60.kv_a_layernorm_weight: [512], paddle.bfloat16
+deepseek_v2.transformer_block.fusedeepseek_v3.60.kv_b_proj_weight: [2048, 512], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.60.q_nope_k_b_proj_weight: [4096, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.60.q_rope_proj_weight: [512, 1536], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.60.v_b_proj_o_weight: [7168, 4096], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.60.shared_expert_ffn1_weight: [256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.60.shared_expert_ffn2_weight: [7168, 128], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.60.out_proj_weight: [7168, 1024], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.60.gate_weight: [7168, 256], paddle.float32
+deepseek_v2.transformer_block.fusedeepseek_v3.60.ffn1_weight: [256, 256, 7168], paddle.int8
+deepseek_v2.transformer_block.fusedeepseek_v3.60.ffn2_weight: [256, 7168, 128], paddle.int8
+lm_head.weight: [7168, 8080], paddle.bfloat16
